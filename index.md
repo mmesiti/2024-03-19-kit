@@ -84,6 +84,11 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
+<p class="text-center">
+  <a href="https://indico.scc.kit.edu/event/4051/">
+    <button type="button" class="btn btn-info">Register for this workshop</button>
+  </a>
+</p>
 
 <h2 id="general">General Information</h2>
 
